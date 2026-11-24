@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow – Smart To-Do List Application",
+  "description": "A full-stack smart task management dashboard for organizing daily activities, tracking progress, and managing priorities with persistent SQLite storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
